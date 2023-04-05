@@ -1,0 +1,28 @@
+body {
+
+    background-color: lightblue;
+    text-align: center;
+
+}
+
+h1 {
+    color: yellow;
+    text-align: center;
+}
+
+button {
+    background-color: pink;
+    color: black;
+    /* border: 2px solid #008CBA; */
+}
+main{
+    display: grid;
+    
+}
+/* h1 span{
+    opacity: 0;
+    display: inline-block;
+    animation: animate is linear forwards;
+        -webkit-animation:
+         animate is linear forwards;
+} */
